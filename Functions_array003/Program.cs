@@ -4,4 +4,4 @@ int n = array.Length;
 int find = 4;
 int index = 0;
 
-while (index < n)
+while (index < n) ;
